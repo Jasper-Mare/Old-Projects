@@ -7,7 +7,7 @@ using DSharpPlus;
 using DSharpPlus.Entities;
 
 //bot token:
-//OTczOTc0MDk5NTQ4MzA3NTAw.GNcc8z.a1z74l12yhL-9uea-Jv81XJx35nfJvFfb699zM
+//
 
 namespace DiscordBot { 
     internal class Program {

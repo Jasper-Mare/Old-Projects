@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "piHH5ycm+mfrxn/QxnYiluoGYzGW6q3HzALdlFgKS+hVZgkdIBlseGhTw0RljrTb6GUfjwJI7eDgfpGZBd0Weg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\CityGenerator2\\CityGenerator2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

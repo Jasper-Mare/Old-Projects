@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9kY0AoPhTBhC0vrmrpTdUtNcJtMsySghCNOtVxf9v1l+FoQYxbGrLxalnlF8hq4OH73MfQ1VaS6FyWVZ9RP2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\Consolebloop\\Consolebloop\\Consolebloop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

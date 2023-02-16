@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8EewshT34cZglwc1CNRPMbn2IlO7vwz88eq2FYrG/PcEmqGt+BbEI0Loyrg0pmL924YNZtl5MniCyz8ot5M4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\FPS\\FPS\\FPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

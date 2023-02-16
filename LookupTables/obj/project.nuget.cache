@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pM/D3091/umLuauhRKVhJqEd/4sZKwadLtWh39LfL9rKCswtdcJktdzHIcw3PLueA1pOxqvRCP3oLWXT1xfYBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\LookupTables\\LookupTables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

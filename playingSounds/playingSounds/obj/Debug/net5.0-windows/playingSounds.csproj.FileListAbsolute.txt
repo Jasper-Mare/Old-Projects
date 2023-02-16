@@ -1,0 +1,21 @@
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.exe
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.deps.json
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.runtimeconfig.json
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\ref\playingSounds.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\playingSounds.pdb
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.Form1.resources
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\ref\playingSounds.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.pdb
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\SharpDX.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\bin\Debug\net5.0-windows\SharpDX.XAudio2.dll
+C:\Users\jaspe\source\repos\playingSounds\playingSounds\obj\Debug\net5.0-windows\playingSounds.Form1 - Copy.resources

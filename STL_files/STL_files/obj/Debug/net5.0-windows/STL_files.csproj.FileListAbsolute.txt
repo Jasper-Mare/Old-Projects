@@ -1,0 +1,39 @@
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.exe
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.deps.json
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.runtimeconfig.json
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.runtimeconfig.dev.json
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.dll
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\ref\STL_files.dll
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.pdb
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\bin\Debug\net5.0-windows\IxMilia.Stl.dll
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.AssemblyReference.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.Form1.resources
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.GenerateResource.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.GeneratedMSBuildEditorConfig.editorconfig
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.AssemblyInfoInputs.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.AssemblyInfo.cs
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.CoreCompileInputs.cache
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.CopyComplete
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.dll
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\ref\STL_files.dll
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.pdb
+\\sch5409.poole.sch.uk\public\homedirs\students\15\15marejas\My Documents\Visual Studio 2019\Projects\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.exe
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.deps.json
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.runtimeconfig.json
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.dll
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\ref\STL_files.dll
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\STL_files.pdb
+C:\Users\jaspe\source\repos\STL_files\STL_files\bin\Debug\net5.0-windows\IxMilia.Stl.dll
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.Form1.resources
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.dll
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\ref\STL_files.dll
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.pdb
+C:\Users\jaspe\source\repos\STL_files\STL_files\obj\Debug\net5.0-windows\STL_files.genruntimeconfig.cache

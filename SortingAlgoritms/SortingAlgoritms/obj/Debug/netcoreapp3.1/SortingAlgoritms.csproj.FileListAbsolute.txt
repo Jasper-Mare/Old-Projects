@@ -1,0 +1,14 @@
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.exe
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.deps.json
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.runtimeconfig.json
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.dll
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\bin\Debug\netcoreapp3.1\SortingAlgoritms.pdb
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.dll
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.pdb
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\SortingAlgoritms\SortingAlgoritms\obj\Debug\netcoreapp3.1\SortingAlgoritms.GeneratedMSBuildEditorConfig.editorconfig

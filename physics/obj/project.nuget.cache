@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU+UClGcV02fvhL48wab9XYn993qC0Fp7okuuweH0UxlNsmT36YXxraBVZnemihCioEwh3qVz5YFm7A+/vKyGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\physics\\physics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

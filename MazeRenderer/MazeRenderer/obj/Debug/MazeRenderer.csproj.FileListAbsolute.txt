@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\bin\Debug\MazeRenderer.exe.config
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\bin\Debug\MazeRenderer.exe
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\bin\Debug\MazeRenderer.pdb
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.Form1.resources
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.Properties.Resources.resources
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.exe
+C:\Users\jaspe\source\repos\MazeRenderer\MazeRenderer\obj\Debug\MazeRenderer.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nijCePJkqgdUTbaLzpF5VKHHjyuJKksBRYTcuB3pnWxivBY7bARWGe/S46Fi16GZzYugswmbbxTDFmo/mfuG+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\sequence\\sequence\\sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

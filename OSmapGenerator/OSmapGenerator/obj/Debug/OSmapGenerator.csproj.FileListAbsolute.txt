@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\bin\Debug\OSmapGenerator.exe.config
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\bin\Debug\OSmapGenerator.exe
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\bin\Debug\OSmapGenerator.pdb
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.Form1.resources
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.Properties.Resources.resources
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.exe
+C:\Users\jaspe\source\repos\OSmapGenerator\OSmapGenerator\obj\Debug\OSmapGenerator.pdb

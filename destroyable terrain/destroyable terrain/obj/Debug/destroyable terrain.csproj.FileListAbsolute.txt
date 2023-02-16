@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\bin\Debug\destroyable terrain.exe.config
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\bin\Debug\destroyable terrain.exe
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\bin\Debug\destroyable terrain.pdb
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\obj\Debug\destroyable terrain.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\obj\Debug\destroyable terrain.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\obj\Debug\destroyable terrain.csproj.CopyComplete
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\obj\Debug\destroyable terrain.exe
+C:\Users\jaspe\source\repos\destroyable terrain\destroyable terrain\obj\Debug\destroyable terrain.pdb

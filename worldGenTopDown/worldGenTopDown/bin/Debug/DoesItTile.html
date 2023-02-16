@@ -1,0 +1,26 @@
+<!-- <body style="background:url(tile.png) repeat 0 0"></body> -->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+		<script>
+            var counter = 0;
+            setInterval(function(){
+		    var myCanvas = document.getElementById('myCanvas');
+		    var ctx = myCanvas.getContext('2d');
+            var img = new Image;
+            img.src = counter + '.PNG';
+		    img.onload = function(){
+		      ctx.drawImage(img,0,0  ); ctx.drawImage(img,256,0  ); ctx.drawImage(img,512,0  );
+              ctx.drawImage(img,0,256); ctx.drawImage(img,256,256); ctx.drawImage(img,512,256);
+		      ctx.drawImage(img,0,512); ctx.drawImage(img,256,512); ctx.drawImage(img,512,512);
+            };
+            counter++;
+            if (counter == 26) { counter = 0; }
+		    }, 1000);
+		</script>
+	</head>
+	<body>
+		<canvas id="myCanvas" width="768" height="768"></canvas>
+	</body>
+</html>

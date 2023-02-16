@@ -1,0 +1,43 @@
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.deps.json
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.runtimeconfig.json
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.runtimeconfig.dev.json
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\ref\FPS.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\FPS.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\Raylib-cs.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.csproj.AssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.GeneratedMSBuildEditorConfig.editorconfig
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.AssemblyInfoInputs.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.AssemblyInfo.cs
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.csproj.CoreCompileInputs.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.csproj.CopyComplete
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\ref\FPS.dll
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\15\15marejas\My Documents\Visual Studio 2019\Projects\FPS\FPS\obj\Debug\net5.0\FPS.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.exe
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.deps.json
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.runtimeconfig.json
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.dll
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\ref\FPS.dll
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\FPS.pdb
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\jaspe\source\repos\FPS\FPS\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.dll
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\ref\FPS.dll
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.pdb
+C:\Users\jaspe\source\repos\FPS\FPS\obj\Debug\net5.0\FPS.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3HIUNMMK0VBGntXvRPpoM4v0hSapCPc8r8B0YowqLjcyRgmvREfJxybPup3qqSkANeSVPvy7XS7Ur6+a5kmMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\vectorHashing\\vectorHashing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

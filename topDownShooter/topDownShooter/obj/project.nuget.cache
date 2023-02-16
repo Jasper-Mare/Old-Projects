@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4w/DUyNnRXj/mwSPigjiSulaPaFcxgze/RuPmVGzLRT6UkwClyxJ7GhVCChHK4k0S6giyp6rNKAsTQHrL4gztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\topDownShooter\\topDownShooter\\topDownShooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

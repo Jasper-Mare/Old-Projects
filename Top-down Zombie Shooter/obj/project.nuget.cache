@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/pyqVsSrC10MsL6U69+ajqM8Hd2QmEtvLIukxiMG9IAms2EuVGi+Vd/ceqJsXKjfEotKD4juVQ5nQCBsx8QJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\Top-down Zombie Shooter\\Top-down Zombie Shooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

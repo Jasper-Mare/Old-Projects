@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\bin\Debug\gradientGeneration.exe.config
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\bin\Debug\gradientGeneration.exe
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\bin\Debug\gradientGeneration.pdb
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\obj\Debug\gradientGeneration.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\obj\Debug\gradientGeneration.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\obj\Debug\gradientGeneration.csproj.CopyComplete
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\obj\Debug\gradientGeneration.exe
+C:\Users\jaspe\source\repos\gradientGeneration\gradientGeneration\obj\Debug\gradientGeneration.pdb

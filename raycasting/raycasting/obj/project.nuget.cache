@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoE5WXyJHTj9XM30Z+SsbD+UymlUE5iYwveXa8kH0e070NlLHsLnrVUrN2s9TuIt2IjNvZT5kUGOrw8BvuwGfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\raycasting\\raycasting\\raycasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

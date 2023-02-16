@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9r8vXWe7m2k+ojhJoPVoBCiLzC3hXdWY+Kkwm4rehL1H3n0x+8NikGrZo5e345COsWxrpvdBgTYhM431/ET7EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\bezierCurves\\bezierCurves\\bezierCurves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0\\raylib-cs.4.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

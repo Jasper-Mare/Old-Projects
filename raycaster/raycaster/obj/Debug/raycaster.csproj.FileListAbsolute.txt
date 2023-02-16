@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\raycaster\raycaster\bin\Debug\raycaster.exe.config
+C:\Users\jaspe\source\repos\raycaster\raycaster\bin\Debug\raycaster.exe
+C:\Users\jaspe\source\repos\raycaster\raycaster\bin\Debug\raycaster.pdb
+C:\Users\jaspe\source\repos\raycaster\raycaster\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\raycaster\raycaster\obj\Debug\raycaster.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\raycaster\raycaster\obj\Debug\raycaster.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\raycaster\raycaster\obj\Debug\raycaster.csproj.CopyComplete
+C:\Users\jaspe\source\repos\raycaster\raycaster\obj\Debug\raycaster.exe
+C:\Users\jaspe\source\repos\raycaster\raycaster\obj\Debug\raycaster.pdb
+C:\Users\jaspe\source\repos\raycaster\raycaster\bin\Debug\System.Numerics.Vectors.dll

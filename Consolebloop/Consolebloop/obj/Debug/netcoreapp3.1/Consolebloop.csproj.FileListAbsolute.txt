@@ -1,0 +1,14 @@
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.exe
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.deps.json
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.runtimeconfig.json
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.dll
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\bin\Debug\netcoreapp3.1\Consolebloop.pdb
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.dll
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.pdb
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\Consolebloop\Consolebloop\obj\Debug\netcoreapp3.1\Consolebloop.GeneratedMSBuildEditorConfig.editorconfig

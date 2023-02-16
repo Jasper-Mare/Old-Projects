@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\bin\Debug\GraphicsMessingAbout.exe.config
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\bin\Debug\GraphicsMessingAbout.exe
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\bin\Debug\GraphicsMessingAbout.pdb
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.Form1.resources
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.Properties.Resources.resources
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.exe
+C:\Users\jaspe\source\repos\GraphicsMessingAbout\GraphicsMessingAbout\obj\Debug\GraphicsMessingAbout.pdb

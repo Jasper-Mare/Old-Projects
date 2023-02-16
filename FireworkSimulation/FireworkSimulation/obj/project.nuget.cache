@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUv3wKrN+E7dpjZAM2CV/qgOKAfpE+tb+YmwYZ3AV564K1Tn+OEb7a9oIC0PDynma/cfTlmsZdd1E8i9j0eZog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\FireworkSimulation\\FireworkSimulation\\FireworkSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0\\raylib-cs.4.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FEZdDG0GMYwLwXe4qOWv9gkFvKkpUBsAZJD2mM1Ff6pmC90HC0zNv7zsvIHRASsoEFg8BrUiRK4TpzC2lsRF4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\grappling\\grappling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

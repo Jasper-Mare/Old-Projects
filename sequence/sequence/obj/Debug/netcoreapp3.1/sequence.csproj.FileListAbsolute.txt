@@ -1,0 +1,14 @@
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.exe
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.deps.json
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.runtimeconfig.json
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.dll
+C:\Users\jaspe\source\repos\sequence\sequence\bin\Debug\netcoreapp3.1\sequence.pdb
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.dll
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.pdb
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\sequence\sequence\obj\Debug\netcoreapp3.1\sequence.GeneratedMSBuildEditorConfig.editorconfig

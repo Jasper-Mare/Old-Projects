@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\3d\3d\bin\Debug\3d.exe.config
+C:\Users\jaspe\source\repos\3d\3d\bin\Debug\3d.exe
+C:\Users\jaspe\source\repos\3d\3d\bin\Debug\3d.pdb
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\_3d.Form1.resources
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\_3d.Properties.Resources.resources
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\3d.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\3d.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\3d.exe
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\3d.pdb
+C:\Users\jaspe\source\repos\3d\3d\obj\Debug\3d.csproj.AssemblyReference.cache

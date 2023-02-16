@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\tanks\tanks\bin\Debug\tanks.exe.config
+C:\Users\jaspe\source\repos\tanks\tanks\bin\Debug\tanks.exe
+C:\Users\jaspe\source\repos\tanks\tanks\bin\Debug\tanks.pdb
+C:\Users\jaspe\source\repos\tanks\tanks\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\tanks\tanks\obj\Debug\tanks.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\tanks\tanks\obj\Debug\tanks.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\tanks\tanks\obj\Debug\tanks.csproj.CopyComplete
+C:\Users\jaspe\source\repos\tanks\tanks\obj\Debug\tanks.exe
+C:\Users\jaspe\source\repos\tanks\tanks\obj\Debug\tanks.pdb

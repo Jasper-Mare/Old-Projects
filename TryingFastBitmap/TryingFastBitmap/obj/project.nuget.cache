@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gs4OkmANZDDR0tiB3gc2m9kJ3Tyxmv4CbpNffp9uMNjySyxeGU/YleZ1H2oqCw8Hr9B6EPOBEHFKoMEj9kfLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\TryingFastBitmap\\TryingFastBitmap\\TryingFastBitmap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\fastbitmaplib\\2.1.0\\fastbitmaplib.2.1.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

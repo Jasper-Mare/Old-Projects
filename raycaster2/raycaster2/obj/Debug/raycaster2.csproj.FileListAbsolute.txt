@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\bin\Debug\raycaster2.exe.config
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\bin\Debug\raycaster2.exe
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\bin\Debug\raycaster2.pdb
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\obj\Debug\raycaster2.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\obj\Debug\raycaster2.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\obj\Debug\raycaster2.csproj.CopyComplete
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\obj\Debug\raycaster2.exe
+C:\Users\jaspe\source\repos\raycaster2\raycaster2\obj\Debug\raycaster2.pdb

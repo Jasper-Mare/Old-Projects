@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.exe
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.deps.json
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.runtimeconfig.json
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.dll
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\bin\Debug\netcoreapp3.1\ProdjectEuler.pdb
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.dll
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.pdb
+C:\Users\jaspe\source\repos\ProdjectEuler\ProdjectEuler\obj\Debug\netcoreapp3.1\ProdjectEuler.genruntimeconfig.cache

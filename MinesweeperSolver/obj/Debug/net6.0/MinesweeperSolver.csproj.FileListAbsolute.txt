@@ -1,0 +1,15 @@
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\MinesweeperSolver\bin\Debug\net6.0\MinesweeperSolver.exe
+C:\Users\jaspe\source\repos\MinesweeperSolver\bin\Debug\net6.0\MinesweeperSolver.deps.json
+C:\Users\jaspe\source\repos\MinesweeperSolver\bin\Debug\net6.0\MinesweeperSolver.runtimeconfig.json
+C:\Users\jaspe\source\repos\MinesweeperSolver\bin\Debug\net6.0\MinesweeperSolver.dll
+C:\Users\jaspe\source\repos\MinesweeperSolver\bin\Debug\net6.0\MinesweeperSolver.pdb
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.dll
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\refint\MinesweeperSolver.dll
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.pdb
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\MinesweeperSolver.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\MinesweeperSolver\obj\Debug\net6.0\ref\MinesweeperSolver.dll

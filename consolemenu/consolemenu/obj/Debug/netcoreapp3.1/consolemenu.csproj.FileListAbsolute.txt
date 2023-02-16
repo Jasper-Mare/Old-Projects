@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.exe
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.deps.json
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.runtimeconfig.json
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.dll
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\bin\Debug\netcoreapp3.1\consolemenu.pdb
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.dll
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.pdb
+C:\Users\jaspe\source\repos\consolemenu\consolemenu\obj\Debug\netcoreapp3.1\consolemenu.genruntimeconfig.cache

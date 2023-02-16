@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzL9AnAV6nYowfY2ejrhiACls2WXXt7u0QBExi/tg+c0JY8zLhVvKGxfI6xUh6H5zc1ahpDWDb3PvBzvVkCYkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\MazeWithRooms\\MazeWithRooms\\MazeWithRooms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\bin\Debug\raycaster3.exe.config
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\bin\Debug\raycaster3.exe
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\bin\Debug\raycaster3.pdb
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\obj\Debug\raycaster3.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\obj\Debug\raycaster3.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\obj\Debug\raycaster3.csproj.CopyComplete
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\obj\Debug\raycaster3.exe
+C:\Users\jaspe\source\repos\raycaster3\raycaster3\obj\Debug\raycaster3.pdb

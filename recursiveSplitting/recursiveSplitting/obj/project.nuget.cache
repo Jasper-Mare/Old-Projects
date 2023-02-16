@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8vlgw8yQIQ1umUIIXx4h+q3m9I++Rl5f+eZCPI4foPvSYyHWRdIHx1x9rldjZRELqD65y/1judgZ865UhOwBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\recursiveSplitting\\recursiveSplitting\\recursiveSplitting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jaspe\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

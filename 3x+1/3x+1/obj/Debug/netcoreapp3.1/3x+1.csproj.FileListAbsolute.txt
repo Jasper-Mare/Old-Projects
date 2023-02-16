@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.exe
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.deps.json
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.runtimeconfig.json
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.dll
+C:\Users\jaspe\source\repos\3x+1\3x+1\bin\Debug\netcoreapp3.1\3x+1.pdb
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.dll
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.pdb
+C:\Users\jaspe\source\repos\3x+1\3x+1\obj\Debug\netcoreapp3.1\3x+1.genruntimeconfig.cache

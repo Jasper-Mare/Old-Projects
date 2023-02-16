@@ -1,0 +1,17 @@
+C:\Users\jaspe\source\repos\TerrainMaker\bin\Debug\net6.0-windows\TerrainMaker.exe
+C:\Users\jaspe\source\repos\TerrainMaker\bin\Debug\net6.0-windows\TerrainMaker.deps.json
+C:\Users\jaspe\source\repos\TerrainMaker\bin\Debug\net6.0-windows\TerrainMaker.runtimeconfig.json
+C:\Users\jaspe\source\repos\TerrainMaker\bin\Debug\net6.0-windows\TerrainMaker.dll
+C:\Users\jaspe\source\repos\TerrainMaker\bin\Debug\net6.0-windows\TerrainMaker.pdb
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.Form1.resources
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.csproj.GenerateResource.cache
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.dll
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\refint\TerrainMaker.dll
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.pdb
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\TerrainMaker.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\TerrainMaker\obj\Debug\net6.0-windows\ref\TerrainMaker.dll

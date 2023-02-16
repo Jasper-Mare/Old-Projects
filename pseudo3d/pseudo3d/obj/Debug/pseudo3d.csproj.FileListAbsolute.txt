@@ -1,0 +1,9 @@
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\bin\Debug\pseudo3d.exe.config
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\bin\Debug\pseudo3d.exe
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\bin\Debug\pseudo3d.pdb
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\obj\Debug\pseudo3d.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\obj\Debug\pseudo3d.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\obj\Debug\pseudo3d.csproj.CopyComplete
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\obj\Debug\pseudo3d.exe
+C:\Users\jaspe\source\repos\pseudo3d\pseudo3d\obj\Debug\pseudo3d.pdb

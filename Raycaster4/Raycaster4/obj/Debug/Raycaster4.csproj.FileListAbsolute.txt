@@ -1,0 +1,10 @@
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\bin\Debug\Raycaster4.exe.config
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\bin\Debug\Raycaster4.exe
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\bin\Debug\Raycaster4.pdb
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\bin\Debug\PixelEngine.dll
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.csproj.CopyComplete
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.exe
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.pdb
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\Raycaster4\Raycaster4\obj\Debug\Raycaster4.csproj.SuggestedBindingRedirects.cache

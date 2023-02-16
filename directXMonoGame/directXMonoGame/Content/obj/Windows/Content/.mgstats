@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/drum.wav","C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/bin/Windows/Content/drum.xnb","SoundEffectProcessor","SoundEffectContent",145408,94313,0.4454228
+"C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/lazer.wav","C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/bin/Windows/Content/lazer.xnb","SoundEffectProcessor","SoundEffectContent",1978894,1319249,0.2493945
+"C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/Logo128.png","C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/bin/Windows/Content/Logo128.xnb","TextureProcessor","Texture2DContent",21077,65621,0.1497347
+"C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/metalThud.wav","C:/Users/jaspe/source/repos/directXMonoGame/directXMonoGame/Content/bin/Windows/Content/metalThud.xnb","SoundEffectProcessor","SoundEffectContent",818534,540281,0.1755887
